@@ -5,3 +5,5 @@
 "orange" 
 "Lime" 
 "mint" 
+"watermelon" 
+"pinapple" 
